@@ -1,2 +1,2 @@
 # simple_memo
-HTML/CSS/PHP/MySQL/MAMP
+HTML/CSS/PHP/Apache/MySQL/MAMP
